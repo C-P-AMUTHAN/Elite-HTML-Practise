@@ -4,18 +4,6 @@ This repo is a collection of hands-on practice files demonstrating fundamental H
 
 ---
 
-## 📂 Project Structure
-
-Elite-HTML-Practise/
-├── basic-elements.html # Practice of headings, paragraphs, links, lists
-├── media-elements.html # Embedded images, audio, video tags
-├── form-elements.html # Forms: inputs, buttons, labels, selects
-├── semantic-structure.html # Semantic tags: header, nav, section, article, aside, footer
-├── tables-demo.html # Tables with captions, headers, rowspans, colspans
-└── README.md # Overview of repository
-
----
-
 ## 🎯 What You’ll Learn
 
 - 🔤 **Text formatting**: headings (`<h1>-<h6>`), paragraphs (`<p>`), emphasis (`<strong>`, `<em>`)
